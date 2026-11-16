@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://mgesn8yvnuop"]
+
+[ext_resource type="Texture2D" uid="uid://lmpb880r35x1" path="res://henry_stickmin_sprite_sheet_by_imyellowz_denq0nw (1).png" id="1_0f027"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Henry" type="Sprite2D" parent="."]
+position = Vector2(224, 483)
+scale = Vector2(3.8181818, 3.818182)
+texture = ExtResource("1_0f027")
+region_enabled = true
+region_rect = Rect2(12.770081, 13.350019, 44.770035, 58.080032)

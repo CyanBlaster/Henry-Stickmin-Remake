@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://vi2v4l2s41yr"]
+
+[ext_resource type="Texture2D" uid="uid://bgja3beg30o7e" path="res://PC _ Computer - The Henry Stickmin Collection - Breaking the Bank - Choices (Breaking the Bank).png" id="1_eumkw"]
+
+[node name="Teleporter" type="Node2D"]
+
+[node name="PcComputerTheHenryStickminCollectionBreakingTheBankChoices(breakingTheBank)" type="Sprite2D" parent="."]
+position = Vector2(124, 179)
+texture = ExtResource("1_eumkw")
+region_enabled = true
+region_rect = Rect2(1202.89, 934.2008, 243.10999, 350.88965)
